@@ -35,6 +35,8 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="50dp"
         android:hint="@string/text_form_hint"
+        android:inputType="text"
+        android:lines="1"
         />
 
     <Button
