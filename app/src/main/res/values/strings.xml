@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">cook-concierge</string>
+    <string name="title">明日飯</string>
+    <string name="title_sub">-日々の食事をバランス良く-</string>
+    <string name="text_form_hint">食材や料理の名前を入力してね！</string>
+    <string name="send_button">送信する</string>
+</resources>
